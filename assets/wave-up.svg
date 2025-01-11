@@ -20,8 +20,9 @@
                 <stop offset="37.5%" stop-color="#0000ff" />
                 <stop offset="50%" stop-color="#008000" /> <!-- Dark Green -->
                 <stop offset="66.67%" stop-color="#0000FF" />
-                <stop offset="83.33%" stop-color="#4B0082" />
-                <stop offset="100%" stop-color="#1B1B2E"/>
+                <stop offset="86.33%" stop-color="#FF0000" />
+                <stop offset="90.33%" stop-color="#FFFF00" />
+                <stop offset="100%" stop-color="#4B0082"/>
             </linearGradient>
         </defs>
         <path d="" fill="url(#linear)" opacity="0.4">
