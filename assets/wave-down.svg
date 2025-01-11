@@ -27,7 +27,7 @@ svg {
 
 #wave3 {
   animation-duration: 3s;
-  opacity:.3;
+  opacity: .1;
 }
 
 @keyframes wave {

@@ -1,5 +1,5 @@
 ![Header](./assets/wave-up.svg)
-![Main](assets/main.svg)
+![Main](assets/welcome-gradient.svg)
 
 <p align="center" style="font-size: .75em;">I am a full stack web developer with a critical thinking mind-set who prones to problem solving in many aspects of life, design and code development. I have been listening, learning, practicing as well as seeking a new role which leverages my skill set. Now it is time to connect and find out what the future will bring. </p>
 
