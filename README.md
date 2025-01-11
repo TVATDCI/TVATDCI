@@ -6,7 +6,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/build-passing-brightgreen" alt="Build Status"/>
   <img src="https://img.shields.io/badge/license-MIT-blue" alt="License"/>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=TVATDCI.TVATDCI" alt="Visitors"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=TVATDCI.TVATDCI" alt="Visitors"/>
   <img src="https://img.shields.io/github/forks/TVATDCI/TVATDCI?style=social" alt="Forks"/>
   <img src="https://img.shields.io/github/stars/TVATDCI/TVATDCI?style=social" alt="Stars"/>
   <img src="https://img.shields.io/github/contributors/TVATDCI/TVATDCI" alt="Contributors"/>
