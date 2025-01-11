@@ -1,0 +1,4 @@
+<div style="text-align: center;">
+  <img src="./wave-up.svg" alt="Welcome to my profile" width="100%" style="display: block; margin: 0 auto 0;" />
+  <img src="./wave-down.svg" alt="Welcome to my profile" width="100%" style="display: block; margin: 0 auto 0;" />
+</div>
