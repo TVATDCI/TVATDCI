@@ -1,7 +1,27 @@
 ![Header](./assets/wave-up.svg)
 ![Main](./assets/main.svg)
 
-<p align="center" style="font-size: .75em;">I am a full stack web developer with a critical thinking mind-set who prones to problem solving in many aspects of life, design and code development. I have been listening, learning, practicing as well as seeking a new role which leverages my skill set. Now it is time to connect and find out what the future will bring. </p>
+<p align="center">
+  <img src="./assets/skillsSVG/axios.svg" alt="Axios Logo" width="20" />
+  <img src="./assets/skillsSVG/codepen.svg" alt="Codepen Logo" width="20" />
+  <img src="./assets/skillsSVG/css-3.svg" alt="CSS Logo" width="20" />
+  <img src="./assets/skillsSVG/docker.svg" alt="Docker Logo" width="20" />
+  <img src="./assets/skillsSVG/express.svg" alt="Express Logo" width="20" />
+  <img src="./assets/skillsSVG/firebase.svg" alt="Firebase Logo" width="20" />
+  <img src="./assets/skillsSVG/framer-blue.svg" alt="Framer Logo" width="20" />
+  <img src="./assets/skillsSVG/html-5.svg" alt="HTML Logo" width="20" />
+  <img src="./assets/skillsSVG/js.svg" alt="JavaScript Logo" width="20" />
+  <img src="./assets/skillsSVG/mongodb-green.svg" alt="MongoDB Logo" width="20" />
+  <img src="./assets/skillsSVG/node-js.svg" alt="NodeJs Logo" width="20" />
+  <img src="./assets/skillsSVG/react.svg" alt="React Logo" width="20" />
+  <img src="./assets/skillsSVG/redux.svg" alt="Redux Logo" width="20" />
+  <img src="./assets/skillsSVG/scss2-white.svg" alt="SCSS Logo" width="20" />
+  <img src="./assets/skillsSVG/tailwind-blue.svg" alt="Tailwind Logo" width="20" />
+  <img src="./assets/skillsSVG/ampersand.svg" alt="Ampersand Logo" width="30" />
+  <span style="background: linear-gradient(to right, red, yellow, green, cyan, blue, violet);" > continuously learning with full passion!</span>
+  
+</p>
+<p align="center" style="font-size: .75em;">I am a full-stack MERN Web Developer with a critical thinking mind-set who prones to problem solving in many aspects of life, design and code development. I have been listening, learning, practicing as well as seeking a new role which leverages my skill set. Now it is time to connect and find out what the future will bring. </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/build-passing-brightgreen" alt="Build Status"/>
