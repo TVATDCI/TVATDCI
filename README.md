@@ -1,5 +1,5 @@
 ![Header](./assets/wave-up.svg)
-![Main](./assets/main.svg) <img src="./assets/gradient-globe.png" alt="gradient-globe" width="50" align="center" style="margin-left: 30px;" />
+![Main](./assets/main.svg)
 
 <p align="center" style="font-size: .75em;">I am a full stack web developer with a critical thinking mind-set who prones to problem solving in many aspects of life, design and code development. I have been listening, learning, practicing as well as seeking a new role which leverages my skill set. Now it is time to connect and find out what the future will bring. </p>
 
@@ -10,6 +10,9 @@
   <img src="https://img.shields.io/github/forks/TVATDCI/TVATDCI?style=social" alt="Forks"/>
   <img src="https://img.shields.io/github/stars/TVATDCI/TVATDCI?style=social" alt="Stars"/>
   <img src="https://img.shields.io/github/contributors/TVATDCI/TVATDCI" alt="Contributors"/>
+</p>
+<p align="center" style="background: linear-gradient(to right, red, yellow, green, cyan, blue, violet);">
+<img src="./assets/gradient-globe.png" alt="gradient-globe" width="50" style=" />
 </p>
 
 ![Footer](assets/wave-down.svg)
