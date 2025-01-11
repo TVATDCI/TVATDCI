@@ -2,12 +2,12 @@
 ![Main](./assets/main.svg)
 
 <p align="center">
-  <img src="./assets/skillsSVG/axios.svg" alt="Axios Logo" width="30" />
-  <img src="./assets/skillsSVG/codepen.svg" alt="Codepen Logo" width="30" />
+  <img src="./assets/skillsSVG/axios.svg" alt="Axios Logo" width="40" />
+  <img src="./assets/skillsSVG/codepen.svg" alt="Codepen Logo" width="40" />
   <img src="./assets/skillsSVG/css-3.svg" alt="CSS Logo" width="30" />
   <img src="./assets/skillsSVG/docker.svg" alt="Docker Logo" width="30" />
-  <img src="./assets/skillsSVG/express.svg" alt="Express Logo" width="30" />
-  <img src="./assets/skillsSVG/firebase.svg" alt="Firebase Logo" width="30" />
+  <img src="./assets/skillsSVG/express.svg" alt="Express Logo" width="25" />
+  <img src="./assets/skillsSVG/firebase.svg" alt="Firebase Logo" width="25" />
   <img src="./assets/skillsSVG/framer-blue.svg" alt="Framer Logo" width="30" />
   <img src="./assets/skillsSVG/html-5.svg" alt="HTML Logo" width="30" />
   <img src="./assets/skillsSVG/js.svg" alt="JavaScript Logo" width="30" />
