@@ -4,7 +4,7 @@
   <path vector-effect="non-scaling-stroke" d="M32 1H319.453C328.037 1 336.238 4.5601 342.1 10.832L374.648 45.6545C380.015 51.3966 383 58.9629 383 66.8225V334C383 351.121 369.121 365 352 365H32C14.8792 365 1 351.121 1 334V32C1 14.8792 14.8792 1 32 1Z" stroke="url(#main_linear_tvatdci)" stroke-opacity="0.85" stroke-width="2"/>
   
   <!-- Editable Text Area -->
-  <text text-anchor="start" alignment-baseline="middle" x="10" y="50%" class="text" style="fill:#FFFDE1; font-size:24px; font-family:monospace; font-weight:700;" stroke="none">
+  <text text-anchor="start" alignment-baseline="middle" x="15" y="50%" class="text" style="fill:#FFFDE1; font-size:24px; font-family:monospace; font-weight:700;" stroke="none">
     Welcome to my profile
   </text>
   
