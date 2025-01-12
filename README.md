@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/github/contributors/TVATDCI/TVATDCI" alt="Contributors"/>
 </p>
 <p align="center" style="background: linear-gradient(to right, red, yellow, green, cyan, blue, violet);">
-<img src="./assets/gradient-globe.png" alt="gradient-globe" width="35" style="margin:0 auto;" />
+<img src="./assets/gradient-globe.png" alt="gradient-globe" width="50" style="margin:0 auto;" />
 </p>
 
 ![Footer](assets/wave-down.svg)
@@ -44,16 +44,19 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TVATDCI&show_icons=true&theme=radical&layout=compact" alt="Most Used Languages"/>
 </p>
 
-#### Connect with Me
+#### 📩 Contact:👇
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+<p align="center">
   <a href="https://www.linkedin.com/in/tuanthong-vaidyanon-6789782b2" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
   </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
   <a href="https://github.com/TVATDCI" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://your-portfolio.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
   </a>
-</div>
+</p>
