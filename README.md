@@ -38,10 +38,10 @@
 
 #### Stats
 
-  <div style="flex: 1; min-width: 300px; margin: 10px;" align="left">
+  <div style="border: 1px solid red;" align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=TVATDCI&show_icons=true&theme=radical" alt="GitHub Stats"/>
   </div>
-  <div style="flex: 1; min-width: 300px; margin: 10px;" align="right" >
+  <div style="border: 1px solid red;" align="right" >
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TVATDCI&show_icons=true&theme=radical&layout=compact" alt="Most Used Languages"/>
   </div>
 
