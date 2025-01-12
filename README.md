@@ -7,7 +7,7 @@
   <img src="./assets/skillsSVG/scss2-white.svg" alt="SCSS Logo" width="30" style="margin-right: 5px;" />
   <img src="./assets/skillsSVG/js.svg" alt="JavaScript Logo" width="30" style="margin-right: 5px;" />
   <img src="./assets/skillsSVG/node-js.svg" alt="NodeJs Logo" width="30" style="margin-right: 5px;" />
-  <img src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe" alt="React Logo" width="30" style="margin-right: 5px;" />
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=react&text=false&animation=spin" alt="React Logo" width="30" style="margin-right: 5px;" />
   <img src="./assets/skillsSVG/tailwind-blue.svg" alt="Tailwind Logo" width="30" style="margin-right: 5px;" />
   <img src="./assets/skillsSVG/codepen.svg" alt="Codepen Logo" width="30" style="margin-right: 5px;" />
   <img src="./assets/skillsSVG/docker.svg" alt="Docker Logo" width="30" style="margin-right: 5px;" />
@@ -32,7 +32,6 @@
 </p>
 <p align="center" style="background: linear-gradient(to right, red, yellow, green, cyan, blue, violet);">
 <img src="./assets/gradient-globe.png" alt="gradient-globe" width="50" style="margin:0 auto;" />
- </a>
 </p>
 
 ![Footer](assets/wave-down.svg)
