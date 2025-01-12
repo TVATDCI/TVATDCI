@@ -38,12 +38,14 @@
 
 #### Stats
 
-<!--   stats + languages -->
-
-| GitHub Stats                                                                                                      | Most Used Languages                                                                                                                          |
-| ----------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=TVATDCI&show_icons=true&theme=radical) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TVATDCI&show_icons=true&theme=radical&layout=compact) |
-
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <div style="flex: 1; min-width: 300px; margin: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=TVATDCI&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  </div>
+  <div style="flex: 1; min-width: 300px; margin: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TVATDCI&show_icons=true&theme=radical&layout=compact" alt="Most Used Languages"/>
+  </div>
+</div>
 #### Connect with Me
 
 <p align="center">
