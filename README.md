@@ -7,7 +7,7 @@
   <img src="./assets/skillsSVG/scss2-white.svg" alt="SCSS Logo" width="30" style="margin-right: 5px;" />
   <img src="./assets/skillsSVG/js.svg" alt="JavaScript Logo" width="30" style="margin-right: 5px;" />
   <img src="./assets/skillsSVG/node-js.svg" alt="NodeJs Logo" width="30" style="margin-right: 5px;" />
-  <img src="https://readme-components.vercel.app/api?component=logo&logo=react&text=false&animation=spin" alt="React Logo" width="30" style="margin-right: 5px;" />
+  <img src="https://readme-components.vercel.app/api?component=logo&logo=react&text=false&animation=spin&svgfill=15d8fe" alt="React Logo" width="40" style="margin-right: 5px;" />
   <img src="./assets/skillsSVG/tailwind-blue.svg" alt="Tailwind Logo" width="30" style="margin-right: 5px;" />
   <img src="./assets/skillsSVG/codepen.svg" alt="Codepen Logo" width="30" style="margin-right: 5px;" />
   <img src="./assets/skillsSVG/docker.svg" alt="Docker Logo" width="30" style="margin-right: 5px;" />
