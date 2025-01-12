@@ -32,6 +32,8 @@
 </p>
 <p align="center" style="background: linear-gradient(to right, red, yellow, green, cyan, blue, violet);">
 <img src="./assets/gradient-globe.png" alt="gradient-globe" width="50" style="margin:0 auto;" />
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe">  
+ </a>
 </p>
 
 ![Footer](assets/wave-down.svg)
