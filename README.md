@@ -54,10 +54,10 @@
 
 <!--   stats + languages -->
 
-| ...                                                                                                                                        | ...                                                                                                                                          |
+| GitHub Stats                                                                                                                               | Most Used Languages                                                                                                                          |
 | ------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=TVATDCI&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TVATDCI&show_icons=true&theme=radical&layout=compact) |
 
-<p align="center">
+<p align="center" style="border: 2px solid; border-image: linear-gradient(to right, red, yellow, green, cyan, blue, violet) 1;">
   <img src="https://github-readme-stats.vercel.app/api?username=TVATDCI&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
