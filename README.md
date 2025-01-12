@@ -2,21 +2,21 @@
 ![Main](./assets/main.svg)
 
 <p align="center">
+  <img src="./assets/skillsSVG/html-5.svg" alt="HTML Logo" width="30" style="margin-right: 5px;" />
   <img src="./assets/skillsSVG/css-3.svg" alt="CSS Logo" width="30" style="margin-right: 5px;" />
+  <img src="./assets/skillsSVG/scss2-white.svg" alt="SCSS Logo" width="30" style="margin-right: 5px;" />
+  <img src="./assets/skillsSVG/js.svg" alt="JavaScript Logo" width="30" style="margin-right: 5px;" />
+  <img src="./assets/skillsSVG/node-js.svg" alt="NodeJs Logo" width="30" style="margin-right: 5px;" />
+  <img src="./assets/skillsSVG/react.svg" alt="React Logo" width="30" style="margin-right: 5px;" />
+  <img src="./assets/skillsSVG/tailwind-blue.svg" alt="Tailwind Logo" width="30" style="margin-right: 5px;" />
+  <img src="./assets/skillsSVG/codepen.svg" alt="Codepen Logo" width="30" style="margin-right: 5px;" />
   <img src="./assets/skillsSVG/docker.svg" alt="Docker Logo" width="30" style="margin-right: 5px;" />
   <img src="./assets/skillsSVG/express.svg" alt="Express Logo" width="30" style="margin-right: 5px;" />
   <img src="./assets/skillsSVG/firebase.svg" alt="Firebase Logo" width="30" style="margin-right: 5px;" />
   <img src="./assets/skillsSVG/framer-blue.svg" alt="Framer Logo" width="30" style="margin-right: 5px;" />
-  <img src="./assets/skillsSVG/html-5.svg" alt="HTML Logo" width="30" style="margin-right: 5px;" />
-  <img src="./assets/skillsSVG/js.svg" alt="JavaScript Logo" width="30" style="margin-right: 5px;" />
   <img src="./assets/skillsSVG/mongodb-green.svg" alt="MongoDB Logo" width="30" style="margin-right: 5px;" />
-  <img src="./assets/skillsSVG/node-js.svg" alt="NodeJs Logo" width="30" style="margin-right: 5px;" />
-  <img src="./assets/skillsSVG/react.svg" alt="React Logo" width="30" style="margin-right: 5px;" />
   <img src="./assets/skillsSVG/redux.svg" alt="Redux Logo" width="30" style="margin-right: 5px;" />
-  <img src="./assets/skillsSVG/scss2-white.svg" alt="SCSS Logo" width="30" style="margin-right: 5px;" />
-  <img src="./assets/skillsSVG/tailwind-blue.svg" alt="Tailwind Logo" width="30" style="margin-right: 5px;" />
   <img src="./assets/skillsSVG/axios.svg" alt="Axios Logo" width="40" style="margin-right: 5px;" />
-  <img src="./assets/skillsSVG/codepen.svg" alt="Codepen Logo" width="30" style="margin-right: 5px;" />
   <img src="./assets/skillsSVG/ampersand.svg" alt="Ampersand Logo" width="30" style="margin-right: 5px;" />
   <span style="background: linear-gradient(to right, red, yellow, green, cyan, blue, violet);" > continuously learning!</span>
 </p>
