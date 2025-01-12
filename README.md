@@ -39,18 +39,24 @@
 #### Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/tuanthong-vaidyanon-6789782b2" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/TVATDCI" target="_blank">
+  <a href="https://github.com/TVATDCI" target="_blank" rel="noopener noreferrer" >
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://your-portfolio.com" target="_blank">
+  <a href="https://your-portfolio.com" target="_blank" rel="noopener noreferrer" >
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
 #### Stats
+
+<!--   stats + languages -->
+
+| ...                                                                                                                                        | ...                                                                                                                                 |
+| ------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------- |
+| ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=TVATDCI&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?TVATDCI&show_icons=true&theme=radical&layout=compact) |
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TVATDCI&show_icons=true&theme=radical" alt="GitHub Stats"/>
