@@ -40,13 +40,9 @@
 
 <!--   stats + languages -->
 
-| GitHub Stats                                                                                                                               | Most Used Languages                                                                                                                          |
-| ------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=TVATDCI&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TVATDCI&show_icons=true&theme=radical&layout=compact) |
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TVATDCI&show_icons=true&theme=radical" alt="GitHub Stats"/>
-</p>
+| GitHub Stats                                                                                                      | Most Used Languages                                                                                                                          |
+| ----------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=TVATDCI&show_icons=true&theme=radical) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TVATDCI&show_icons=true&theme=radical&layout=compact) |
 
 #### Connect with Me
 
