@@ -1,18 +1,15 @@
 ![Header](./assets/wave-up.svg)
 ![Main](./assets/main.svg)
 
-<table align="right" style="font-weight: bold;">
+<table>
   <tr>
-    <td >Language:</td>
+    <td >Eng</td>
   </tr>
   <tr>
-    <td >English</td>
+    <td>Deutsche</td>
   </tr>
   <tr>
-    <td>German</td>
-  </tr>
-  <tr>
-    <td>Thai</td>
+    <td>ภาษาไทย</td>
   </tr>
 </table>
 
