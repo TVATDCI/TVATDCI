@@ -1,7 +1,7 @@
 ![Header](./assets/wave-up.svg)
 ![Main](./assets/main.svg)
 
-<table align="right">
+<table align="right" style="margin-left: 5px;" >
   <tr>
     <td >EN</td>
   </tr>
