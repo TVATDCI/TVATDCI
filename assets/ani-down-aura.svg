@@ -20,7 +20,7 @@
     }
 
     #wave3 {
-      animation-duration: 8s;
+      animation-duration: 6s;
       opacity: 0.5;
     }
 
@@ -36,7 +36,7 @@
     <linearGradient id="wave-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#eeeeee" />
       <stop offset="25%" stop-color="#b7dcdd" />
-      <stop offset="50%" stop-color="#bacce1" />
+      <stop offset="50%" stop-color="#4B0082" />
       <stop offset="75%" stop-color="#b7dcdd" />
       <stop offset="100%" stop-color="#eeeeee" />
     </linearGradient>
