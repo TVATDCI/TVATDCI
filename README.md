@@ -59,7 +59,7 @@
   <a href="#" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <table align="right" >
+  <table>
   <tr>
     <td >EN</td>
   </tr>
