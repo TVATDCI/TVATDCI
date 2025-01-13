@@ -34,7 +34,7 @@
 <img src="./assets/gradient-globe.png" alt="gradient-globe" width="50" style="margin:0 auto;" />
 </p>
 
-![Footer](assets/wave-down.svg)
+![](assets/wave-down.svg)
 
 #### Stats
 
@@ -59,8 +59,7 @@
   <a href="#" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-</p>
-<table align="right" style="margin-left: 5px;" >
+  <table align="right" >
   <tr>
     <td >EN</td>
   </tr>
@@ -71,3 +70,5 @@
     <td>ภาษาไทย</td>
   </tr>
 </table>
+
+</p>
