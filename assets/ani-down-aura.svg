@@ -34,11 +34,11 @@
   <defs> 
     <!-- Enhanced Gradient Definition -->
     <linearGradient id="wave-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#101010" />
-      <stop offset="25%" stop-color="#101010" />
-      <stop offset="50%" stop-color="#101010" />
-      <stop offset="75%" stop-color="#101010" />
-      <stop offset="100%" stop-color="#101010" />
+      <stop offset="0%" stop-color="#1a1a1a" />
+      <stop offset="25%" stop-color="#2a2a2a" />
+      <stop offset="50%" stop-color="#3a3a3a" />
+      <stop offset="75%" stop-color="#2a2a2a" />
+      <stop offset="100%" stop-color="#1a1a1a" />
     </linearGradient>
 
     <!-- Aura Effect Filter -->
