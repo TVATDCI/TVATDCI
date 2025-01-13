@@ -34,18 +34,18 @@
   <defs> 
     <!-- Enhanced Gradient Definition -->
     <linearGradient id="wave-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#1a1a1a" />
-      <stop offset="25%" stop-color="#2a2a2a" />
-      <stop offset="50%" stop-color="2a2a2a" />
-      <stop offset="75%" stop-color="#2a2a2a" />
-      <stop offset="100%" stop-color="#1a1a1a" />
+      <stop offset="0%" stop-color="#eeeeee" />
+      <stop offset="25%" stop-color="#F1EDE0" />
+      <stop offset="50%" stop-color="#F1EDE0" />
+      <stop offset="75%" stop-color="#F1EDE0" />
+      <stop offset="100%" stop-color="#eeeeee" />
     </linearGradient>
 
     <!-- Aura Effect Filter -->
     <filter id="aura">
       <feGaussianBlur in="SourceAlpha" stdDeviation="4" result="blur" />
       <feOffset in="blur" dx="0" dy="0" result="offsetBlur" />
-      <feFlood flood-color="rgba(241, 237, 224, 0.2)" result="color" />
+      <feFlood flood-color="rgba(241, 237, 224, 0.5)" result="color" />
       <feComposite in2="offsetBlur" operator="in" result="auraBlur" />
       <feMerge>
         <feMergeNode in="auraBlur" />
