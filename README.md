@@ -2,7 +2,7 @@
 ![Main](./assets/main.svg)
 
 <p align="center">
-<img src="./assets/green-alien.svg" alt="About me" width="50" align="left" />
+<img src="./assets/ani.svg" alt="About me" width="50" align="left" />
   <img src="./assets/skillsSVG/html-5.svg" alt="HTML Logo" width="30" style="margin-right: 5px;" />
   <img src="./assets/skillsSVG/css-3.svg" alt="CSS Logo" width="30" style="margin-right: 5px;" />
   <img src="./assets/skillsSVG/scss2-white.svg" alt="SCSS Logo" width="30" style="margin-right: 5px;" />
