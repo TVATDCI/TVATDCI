@@ -1,9 +1,9 @@
 ![Header](./assets/wave-up.svg)
 ![Main](./assets/main.svg)
 
-<table align="right">
+<table align="right" style="font-weight: bold;">
   <tr>
-    <td style="font-weight: bold;">Language:</td>
+    <td >Language:</td>
   </tr>
   <tr>
     <td >English</td>
