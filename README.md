@@ -30,6 +30,12 @@
   <img src="https://img.shields.io/github/stars/TVATDCI/TVATDCI?style=social" alt="Stars"/>
   <img src="https://img.shields.io/github/contributors/TVATDCI/TVATDCI" alt="Contributors"/>
 </p>
+<p align="center" style="background: linear-gradient(to right, red, yellow, green, cyan, blue, violet);">
+<img src="./assets/gradient-globe.png" alt="gradient-globe" width="50" style="margin:0 auto;" />
+</p>
+
+![Footer](assets/wave-down.svg)
+
 <table align="right" style="margin-left: 5px;" >
   <tr>
     <td >EN</td>
@@ -41,11 +47,6 @@
     <td>ภาษาไทย</td>
   </tr>
 </table>
-<p align="center" style="background: linear-gradient(to right, red, yellow, green, cyan, blue, violet);">
-<img src="./assets/gradient-globe.png" alt="gradient-globe" width="50" style="margin:0 auto;" />
-</p>
-
-![Footer](assets/wave-down.svg)
 
 #### Stats
 
