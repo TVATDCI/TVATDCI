@@ -16,7 +16,7 @@
     #wave2 {
       animation-duration: 6s;
       animation-direction: reverse;
-      opacity: 0.9;
+      opacity: 0.5;
     }
 
     #wave3 {
