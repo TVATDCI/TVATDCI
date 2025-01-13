@@ -1,18 +1,6 @@
 ![Header](./assets/wave-up.svg)
 ![Main](./assets/main.svg)
 
-<table align="right" style="margin-left: 5px;" >
-  <tr>
-    <td >EN</td>
-  </tr>
-  <tr>
-    <td>DE</td>
-  </tr>
-  <tr>
-    <td>ภาษาไทย</td>
-  </tr>
-</table>
-
 <p align="center">
   <img src="./assets/skillsSVG/html-5.svg" alt="HTML Logo" width="30" style="margin-right: 5px;" />
   <img src="./assets/skillsSVG/css-3.svg" alt="CSS Logo" width="30" style="margin-right: 5px;" />
@@ -32,7 +20,7 @@
   <img src="./assets/skillsSVG/ampersand.svg" alt="Ampersand Logo" width="30" style="margin-right: 5px;" />
   <span style="background: linear-gradient(to right, red, yellow, green, cyan, blue, violet);" > continuously learning!</span>
 </p>
-<p align="center" style="font-size: .75em;">I am a full-stack MERN Web Developer with a critical thinking mind-set who prones to problem solving in many aspects of life, design and code development. I have been listening, learning, practicing as well as seeking a new role which leverages my skill set. Now it is time to connect and find out what the future will bring. </p>
+<p align="center" style="font-size: .5em;">I am a full-stack MERN Web Developer with a critical thinking mind-set who prones to problem solving in many aspects of life, design and code development. I have been listening, learning, practicing as well as seeking a new role which leverages my skill set. Now it is time to connect and find out what the future will bring. </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/build-passing-brightgreen" alt="Build Status"/>
@@ -42,6 +30,17 @@
   <img src="https://img.shields.io/github/stars/TVATDCI/TVATDCI?style=social" alt="Stars"/>
   <img src="https://img.shields.io/github/contributors/TVATDCI/TVATDCI" alt="Contributors"/>
 </p>
+<table align="right" style="margin-left: 5px;" >
+  <tr>
+    <td >EN</td>
+  </tr>
+  <tr>
+    <td>DE</td>
+  </tr>
+  <tr>
+    <td>ภาษาไทย</td>
+  </tr>
+</table>
 <p align="center" style="background: linear-gradient(to right, red, yellow, green, cyan, blue, violet);">
 <img src="./assets/gradient-globe.png" alt="gradient-globe" width="50" style="margin:0 auto;" />
 </p>
