@@ -1,12 +1,12 @@
 ![Header](./assets/wave-up.svg)
 ![Main](./assets/main.svg)
 
-<table>
+<table align="right">
   <tr>
-    <td >Eng</td>
+    <td >EN</td>
   </tr>
   <tr>
-    <td>Deutsche</td>
+    <td>DE</td>
   </tr>
   <tr>
     <td>ภาษาไทย</td>
