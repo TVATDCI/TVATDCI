@@ -45,7 +45,7 @@
     <filter id="aura">
       <feGaussianBlur in="SourceAlpha" stdDeviation="4" result="blur" />
       <feOffset in="blur" dx="0" dy="0" result="offsetBlur" />
-      <feFlood flood-color="rgba(241, 237, 224, 0.9)" result="color" />
+      <feFlood flood-color="rgba(241, 237, 224, 0.5)" result="color" />
       <feComposite in2="offsetBlur" operator="in" result="auraBlur" />
       <feMerge>
         <feMergeNode in="auraBlur" />
