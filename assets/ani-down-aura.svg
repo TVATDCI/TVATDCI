@@ -16,11 +16,11 @@
     #wave2 {
       animation-duration: 6s;
       animation-direction: reverse;
-      opacity: 0.1;
+      opacity: 0.3;
     }
 
     #wave3 {
-      animation-duration: 8s;
+      animation-duration: 20s;
       opacity: 0.1;
     }
 
