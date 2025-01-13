@@ -1,0 +1,38 @@
+<svg
+  fill="none"
+  height="800px"
+  width="800px"
+  version="1.1"
+  id="Layer_1"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  viewBox="0 0 512 512"
+  xml:space="preserve"
+>
+  <defs>
+    <!-- Linear Gradient Definition -->
+  <linearGradient id="alien-gradient" x1="50%" x2="50%" y1="0%" y2="100%">
+    <stop offset="1%" stop-color="#FBF4E1" /> <!-- Red -->
+    <stop offset="16.67%" stop-color="#859F3D" /> <!-- Orange -->
+    <stop offset="33.33%" stop-color="#FFFF00" />
+    <stop offset="37.5%" stop-color="#00FF00" /> 
+    <stop offset="50%" stop-color="#859F3D" /> <!-- Green -->
+    <stop offset="66.67%" stop-color="#1A1A19" /> <!-- Blue -->
+    <stop offset="83.33%" stop-color="#00FF00" /> <!-- Indigo -->
+    <stop offset="100%" stop-color="#FBF4E1" /> <!-- Violet -->
+  </linearGradient>
+</defs>
+
+  <g>
+    <g>
+      <!-- Use the gradient for fill -->
+      <path
+        d="M415.915,219.208v-96.039H344.69V58.435h-33.391v64.735H200.701V58.435h-33.391v64.735H96.085v96.039H0v111.663h33.391
+			V252.6h62.693v94.967h71.226v72.607h-30.788v33.391h64.179V347.568h110.598v105.997h64.179v-33.391h-30.788v-72.606h71.226
+			v-94.967h62.692v78.271H512V219.208H415.915z M201.939,250.472h-35.868v-35.868h35.868V250.472z M345.928,250.472h-35.868v-35.868
+			h35.868V250.472z"
+        fill="url(#alien-gradient)"
+      />
+    </g>
+  </g>
+</svg>
