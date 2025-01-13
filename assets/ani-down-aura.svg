@@ -20,7 +20,7 @@
     }
 
     #wave3 {
-      animation-duration: 20s;
+      animation-duration: 8s;
       opacity: 0.9;
     }
 
@@ -34,11 +34,11 @@
   <defs> 
     <!-- Enhanced Gradient Definition -->
     <linearGradient id="wave-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#F1EDE0" />
+      <stop offset="0%" stop-color="#000000" />
       <stop offset="25%" stop-color="#191a18" />
       <stop offset="50%" stop-color="#191a18" />
       <stop offset="75%" stop-color="#191a18" />
-      <stop offset="100%" stop-color="#F1EDE0" />
+      <stop offset="100%" stop-color="#000000" />
     </linearGradient>
 
     <!-- Aura Effect Filter -->
