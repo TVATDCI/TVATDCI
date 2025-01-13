@@ -1,6 +1,12 @@
 ![Header](./assets/wave-up.svg)
 ![Main](./assets/main.svg)
 
+<table align="right">Language 
+<tr><td><a href="README.md">English</a></td></tr>
+ <tr><td><a href="README_de.md">German</a></td></tr>
+ <tr><td><a href="README_th.md">Thai</a></td></tr>
+</table>
+
 <p align="center">
   <img src="./assets/skillsSVG/html-5.svg" alt="HTML Logo" width="30" style="margin-right: 5px;" />
   <img src="./assets/skillsSVG/css-3.svg" alt="CSS Logo" width="30" style="margin-right: 5px;" />
@@ -48,15 +54,15 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/tuanthong-vaidyanon-6789782b2" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  </a>&nbsp;
   <a href="https://your-portfolio.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>&nbsp;
   <a href="#">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/TVATDCI" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+</a>&nbsp;
+  <a href="#" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
