@@ -1,18 +1,18 @@
 ![Header](./assets/wave-up.svg)
 ![Main](./assets/main.svg)
 
-<table align="right" style="border: none; margin: 10px;">
+<table align="right">
   <tr>
-    <td style="padding: 5px; font-weight: bold;">Language Abilities:</td>
+    <td style="font-weight: bold;">Language:</td>
   </tr>
   <tr>
-    <td style="padding: 5px;">English</td>
+    <td >English</td>
   </tr>
   <tr>
-    <td style="padding: 5px;">German</td>
+    <td>German</td>
   </tr>
   <tr>
-    <td style="padding: 5px;">Thai</td>
+    <td>Thai</td>
   </tr>
 </table>
 
