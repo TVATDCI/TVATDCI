@@ -2,7 +2,7 @@
 ![Main](./assets/main.svg)
 
 <p align="center">
-<img src="./assets/green-alien.svg" alt="About me" width="50" align="left" style="margin-right: 10px" />
+<img src="./assets/green-alien.svg" alt="About me" width="50" align="left" />
   <img src="./assets/skillsSVG/html-5.svg" alt="HTML Logo" width="30" style="margin-right: 5px;" />
   <img src="./assets/skillsSVG/css-3.svg" alt="CSS Logo" width="30" style="margin-right: 5px;" />
   <img src="./assets/skillsSVG/scss2-white.svg" alt="SCSS Logo" width="30" style="margin-right: 5px;" />
@@ -18,7 +18,7 @@
   <img src="./assets/skillsSVG/mongodb-green.svg" alt="MongoDB Logo" width="30" style="margin-right: 5px;" />
   <img src="./assets/skillsSVG/redux.svg" alt="Redux Logo" width="30" style="margin-right: 5px;" />
   <img src="./assets/skillsSVG/axios.svg" alt="Axios Logo" width="40" style="margin-right: 5px;" />
-  <img src="./assets/skillsSVG/ampersand.svg" alt="Ampersand Logo" width="30" style="margin-right: 5px;" />
+  <img src="./assets/skillsSVG/ampersand.svg" alt="Ampersand Logo" width="20" style="margin-right: 5px;" />
   <span style="background: linear-gradient(to right, red, yellow, green, cyan, blue, violet);" > continuously learning!</span>
 </p>
 <p align="center" style="font-size: .5em;">I am a full-stack MERN Web Developer with a critical thinking mind-set who prones to problem solving in many aspects of life, design and code development. I have been listening, learning, practicing as well as seeking a new role which leverages my skill set. Now it is time to connect and find out what the future will bring. </p>
