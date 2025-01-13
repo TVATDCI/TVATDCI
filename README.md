@@ -1,10 +1,19 @@
 ![Header](./assets/wave-up.svg)
 ![Main](./assets/main.svg)
 
-<table align="right">Language 
-<tr><td><a href="README.md">English</a></td></tr>
- <tr><td><a href="README_de.md">German</a></td></tr>
- <tr><td><a href="README_th.md">Thai</a></td></tr>
+<table align="right" style="border: none; margin: 10px;">
+  <tr>
+    <td style="padding: 5px; font-weight: bold;">Language Abilities:</td>
+  </tr>
+  <tr>
+    <td style="padding: 5px;">English</td>
+  </tr>
+  <tr>
+    <td style="padding: 5px;">German</td>
+  </tr>
+  <tr>
+    <td style="padding: 5px;">Thai</td>
+  </tr>
 </table>
 
 <p align="center">
