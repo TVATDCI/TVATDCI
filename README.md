@@ -35,7 +35,7 @@
 <img src="./assets/gradient-globe.png" alt="gradient-globe" width="50" style="margin:0 auto;" />
 </p>
 
-![](assets/wave-down.svg)
+![](assets/ani-down-aura.svg)
 
 #### Stats
 
