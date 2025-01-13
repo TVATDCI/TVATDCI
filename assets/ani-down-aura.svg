@@ -21,7 +21,7 @@
 
     #wave3 {
       animation-duration: 8s;
-      opacity: 0.5;
+      opacity: 0.7;
     }
 
     @keyframes wave {
