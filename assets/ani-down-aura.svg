@@ -35,9 +35,9 @@
     <!-- Enhanced Gradient Definition -->
     <linearGradient id="wave-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#eeeeee" />
-      <stop offset="25%" stop-color="#b7dcdd" />
-      <stop offset="50%" stop-color="#b7dcdd" />
-      <stop offset="75%" stop-color="#b7dcdd" />
+      <stop offset="25%" stop-color="#eeeeee" />
+      <stop offset="50%" stop-color="#F2F2F2" />
+      <stop offset="75%" stop-color="#eeeeee" />
       <stop offset="100%" stop-color="#eeeeee" />
     </linearGradient>
 
