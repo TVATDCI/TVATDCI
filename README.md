@@ -36,18 +36,6 @@
 
 ![Footer](assets/wave-down.svg)
 
-<table align="right" style="margin-left: 5px;" >
-  <tr>
-    <td >EN</td>
-  </tr>
-  <tr>
-    <td>DE</td>
-  </tr>
-  <tr>
-    <td>ภาษาไทย</td>
-  </tr>
-</table>
-
 #### Stats
 
 <p align="center">
@@ -72,3 +60,14 @@
     <img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
+<table align="right" style="margin-left: 5px;" >
+  <tr>
+    <td >EN</td>
+  </tr>
+  <tr>
+    <td>DE</td>
+  </tr>
+  <tr>
+    <td>ภาษาไทย</td>
+  </tr>
+</table>
