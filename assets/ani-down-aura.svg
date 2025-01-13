@@ -38,7 +38,7 @@
       <stop offset="25%" stop-color="#eeeeee" />
       <stop offset="50%" stop-color="#000000" />
       <stop offset="75%" stop-color="#eeeeee" />
-      <stop offset="100%" stop-color="#F1EDE0" />
+      <stop offset="100%" stop-color="#FFFF00" />
     </linearGradient>
 
     <!-- Aura Effect Filter -->
