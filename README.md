@@ -72,4 +72,4 @@
     <td>ภาษาไทย</td>
   </tr>
 </table>
-<a href="https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax" target="_blank" rel="noopener noreferrer">basic formating syntex GitHub</a>
+<a href="https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax" rel="noopener noreferrer">basic formating syntex GitHub</a>
