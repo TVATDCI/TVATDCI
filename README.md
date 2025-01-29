@@ -60,6 +60,7 @@
   <a href="#" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+  </p>
   <table>
   <tr>
     <td >EN</td>
@@ -71,5 +72,3 @@
     <td>ภาษาไทย</td>
   </tr>
 </table>
-
-</p>
