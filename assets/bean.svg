@@ -1,0 +1,41 @@
+<svg
+  width="300"
+  height="300"
+  viewBox="0 0 512 512"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <defs>
+    <radialGradient id="ufo-glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#00FF00" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#1A1A19" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+
+  <!-- Glowing Beam -->
+  <ellipse
+    cx="256"
+    cy="400"
+    rx="120"
+    ry="40"
+    fill="url(#ufo-glow)"
+    opacity="0.6"
+  >
+    <animate attributeName="opacity" values="0.6;0.3;0.6" dur="2s" repeatCount="indefinite" />
+  </ellipse>
+
+  <!-- UFO Body -->
+  <ellipse cx="256" cy="180" rx="140" ry="50" fill="silver" stroke="black" stroke-width="4" />
+  
+  <!-- UFO Dome -->
+  <circle cx="256" cy="150" r="40" fill="url(#alien-gradient)" stroke="black" stroke-width="3">
+    <animateTransform
+      attributeName="transform"
+      type="translate"
+      dur="4s"
+      repeatCount="indefinite"
+      values="0,0; 0,-10; 0,0; 0,10; 0,0"
+      keyTimes="0; 0.25; 0.5; 0.75; 1"
+      keySplines="0.42 0 0.58 1; 0.42 0 0.58 1; 0.42 0 0.58 1; 0.42 0 0.58 1"
+    />
+  </circle>
+</svg>
