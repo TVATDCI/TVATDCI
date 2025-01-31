@@ -1,0 +1,31 @@
+<svg
+  width="300"
+  height="300"
+  viewBox="0 0 200 200"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <defs>
+    <linearGradient id="neon-glitch" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff00ff" />
+      <stop offset="50%" stop-color="#00ffff" />
+      <stop offset="100%" stop-color="#ff00ff" />
+    </linearGradient>
+  </defs>
+
+  <path
+    d="M100,10 C150,10 180,40 180,90 C180,120 160,150 120,160 C100,180 80,180 60,160 C20,150 10,120 10,90 C10,40 50,10 100,10"
+    stroke="url(#neon-glitch)"
+    stroke-width="4"
+    fill="none"
+    filter="url(#glow)"
+  />
+
+  <!-- Glitch animation -->
+  <animateTransform
+    attributeName="transform"
+    type="translate"
+    dur="0.2s"
+    repeatCount="indefinite"
+    values="1,0; -2,1; 2,-1; -1,0; 0,1"
+  />
+</svg>
