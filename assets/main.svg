@@ -1,19 +1,19 @@
-<svg preserveAspectRatio="none" width="854" height="150" viewBox="0 0 854 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg preserveAspectRatio="none" width="854" height="150" viewBox="0 0 854 150" fill="none" xmlns="http://www.w3.org/2000/svg">
   <!-- Background Paths -->
   <path vector-effect="non-scaling-stroke" d="M32 1H319.453C328.037 1 336.238 4.5601 342.1 10.832L374.648 45.6545C380.015 51.3966 383 58.9629 383 66.8225V334C383 351.121 369.121 365 352 365H32C14.8792 365 1 351.121 1 334V32C1 14.8792 14.8792 1 32 1Z" stroke="white" stroke-opacity="0.15" stroke-width="2"/>
   <path vector-effect="non-scaling-stroke" d="M32 1H319.453C328.037 1 336.238 4.5601 342.1 10.832L374.648 45.6545C380.015 51.3966 383 58.9629 383 66.8225V334C383 351.121 369.121 365 352 365H32C14.8792 365 1 351.121 1 334V32C1 14.8792 14.8792 1 32 1Z" stroke="url(#main_linear_tvatdci)" stroke-opacity="0.85" stroke-width="2"/>
   
   <!-- Editable Text Area -->
-  <text x="20" y="40" style="fill:#FFFDE1; font-size:20px; font-family:monospace; font-weight:700;" stroke="none">
+  <text x="20" y="30" style="fill:#FFFDE1; font-size:20px; font-family: 'monospace', sans-serif; font-weight:700;" stroke="none">
     Welcome to my profile
   </text>
-  <text x="20" y="70" style="fill:#FFFDE1; font-size:16px; font-family:monospace; font-weight:500;" stroke="none">
-    please feel free to look around
+  <text x="20" y="60" style="fill:#FFFDE1; font-size:16px; font-family: 'monospace', sans-serif; font-weight:600;" stroke="none">
+    please feel free to look around or,
   </text>
-  <text x="20" y="100" style="fill:#FFFDE1; font-size:16px; font-family:monospace; font-weight:500;" stroke="none">
-    or, click on the image below
+  <text x="20" y="90" style="fill:#E7168E; font-size:16px; font-family: 'monospace', sans-serif; font-weight:600;" stroke="none">
+    click on the image,
   </text>
-  <text x="20" y="130" style="fill:#FFFDE1; font-size:16px; font-family:monospace; font-weight:700;" stroke="none">
+  <text x="20" y="120" style="fill:#FFFDE1; font-size:16px; font-family: 'monospace', sans-serif; font-weight:700;" stroke="none">
   to explore more about me!
   </text>
   <!-- Gradient Definition -->
