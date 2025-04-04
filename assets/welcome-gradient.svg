@@ -13,7 +13,7 @@
     <!-- Linear Gradient Definition -->
     <linearGradient id="alien-gradient" x1="50%" x2="50%" y1="0%" y2="100%">
       <stop offset="1%" stop-color="#FBF4E1" />
-      <stop offset="16.67%" stop-color="#859F3D" />
+      <stop offset="16.67%" stop-color="#1A1A19" />
       <stop offset="33.33%" stop-color="#FFFF00" />
       <stop offset="37.5%" stop-color="#1A1A19" />
       <stop offset="50%" stop-color="#859F3D" />
@@ -39,7 +39,7 @@
   <!-- Add Text -->
   <text
     x="50%"
-    y="30%"
+    y="35%"
     text-anchor="middle"
     alignment-baseline="middle"
     style="fill:#FFFDE1; font-size:30px; font-weight:700; text-transform:uppercase; letter-spacing:2px; font-family: 'monospace', sans-serif; padding: 10px;"
