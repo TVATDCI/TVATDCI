@@ -42,7 +42,7 @@
     y="50%"
     text-anchor="middle"
     alignment-baseline="middle"
-    style="fill:#FFFDE1; font-size:30px; font-weight:700; text-transform:uppercase; letter-spacing:2px; font-family: 'monospace', sans-serif; padding: 10px;"
+    style="fill:#FFFDE1; font-size:30px; font-weight:700; text-transform:uppercase; letter-spacing:2px; font-family: 'monospace', sans-serif; padding: 10px; margin: 20px;"
   >portfolio
   </text>
 </svg>
