@@ -43,6 +43,6 @@
     text-anchor="middle"
     alignment-baseline="middle"
     style="fill:#FFFDE1; font-size:30px; font-weight:700; text-transform:uppercase; letter-spacing:2px; font-family: 'monospace', sans-serif; padding: 10px; margin-top: 20px;"
-  >portfolio
+  ><span>click image</span><span>to</span><span>my</span>portfolio
   </text>
 </svg>
