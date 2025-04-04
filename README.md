@@ -1,7 +1,7 @@
 ![Header](./assets/wave-up.svg)
 ![Main](./assets/main.svg)
 <a href="https://dropdeaddev-1.onrender.com" target="_blank">
-<img src="./assets/welcome-gradient.svg" alt="Welcome banner" />
+<img src="./assets/welcome-gradient.svg" alt="Welcome banner" width="250" />
 </a>
 
 <p align="center">
