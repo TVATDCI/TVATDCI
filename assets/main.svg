@@ -5,7 +5,7 @@
   
   <!-- Editable Text Area -->
   <text text-anchor="start" alignment-baseline="middle" x="20" y="50%" class="text" style="fill:#FFFDE1; font-size:24px; font-family:monospace; font-weight:700;" stroke="none">
-    Welcome to my profile
+    Welcome to my profile click image to see more about me!
   </text>
   
   <!-- Gradient Definition -->
