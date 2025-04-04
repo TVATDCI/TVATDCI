@@ -2,9 +2,9 @@
 ![Main](./assets/main.svg)
 
 <p align="center">
-<a href="https://dropdeaddev-1.onrender.com" target="_blank" >
-<img src="./assets/welcome-gradient.svg" alt="Welcome banner" width="250"/>
-</a>
+  <a href="https://dropdeaddev-1.onrender.com" target="_blank" rel="noopener noreferrer">
+    <img src="./assets/welcome-gradient.svg" alt="Welcome banner" width="250"/>
+  </a>
 </p>
 
 <p align="center">

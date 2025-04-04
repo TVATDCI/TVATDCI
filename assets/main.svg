@@ -7,10 +7,10 @@
   <text x="20" y="40" style="fill:#FFFDE1; font-size:20px; font-family:monospace; font-weight:700;" stroke="none">
     Welcome to my profile
   </text>
-  <text x="20" y="70" style="fill:#FFFDE1; font-size:20px; font-family:monospace; font-weight:700;" stroke="none">
+  <text x="20" y="70" style="fill:#FFFDE1; font-size:16px; font-family:monospace; font-weight:700;" stroke="none">
     please feel free to look around
   </text>
-  <text x="20" y="100" style="fill:#FFFDE1; font-size:20px; font-family:monospace; font-weight:700;" stroke="none">
+  <text x="20" y="100" style="fill:#FFFDE1; font-size:16px; font-family:monospace; font-weight:700;" stroke="none">
     or, click on the image to see more about me!
   </text>
 
