@@ -40,7 +40,7 @@
   <text
     x="50%"
     y="50%"
-    text-anchor="bottom"
+    text-anchor="baseline"
     alignment-baseline="middle"
     style="fill:#FFFDE1; font-size:30px; font-weight:700; text-transform:uppercase; letter-spacing:2px; font-family: 'monospace', sans-serif; padding: 10px; margin-top: 20px;"
   >click image to my portfolio
