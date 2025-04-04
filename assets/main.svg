@@ -7,10 +7,10 @@
   <text text-anchor="start" alignment-baseline="middle" x="20" y="50%" class="text" style="fill:#FFFDE1; font-size:24px; font-family:monospace; font-weight:700;" stroke="none">
     Welcome to my profile
   </text>
-  <text text-anchor="middle" alignment-baseline="middle" x="20" y="60%" class="text" style="fill:#FFFDE1; font-size:24px; font-family:monospace; font-weight:700;" stroke="none">
+  <text text-anchor="middle" alignment-baseline="middle" x="30" y="60%" class="text" style="fill:#FFFDE1; font-size:24px; font-family:monospace; font-weight:700;" stroke="none">
     please feel free to look around
   </text>
-  <text text-anchor="middle" alignment-baseline="middle" x="20" y="70%" class="text" style="fill:#FFFDE1; font-size:24px; font-family:monospace; font-weight:700;" stroke="none">
+  <text text-anchor="middle" alignment-baseline="middle" x="40" y="70%" class="text" style="fill:#FFFDE1; font-size:24px; font-family:monospace; font-weight:700;" stroke="none">
     or, click on the image to see more about me!
   </text>
   
