@@ -34,8 +34,8 @@
   <img src="https://img.shields.io/badge/license-MIT-blue" alt="License"/>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=TVATDCI.TVATDCI" alt="Visitors"/>
   <img src="https://img.shields.io/github/forks/TVATDCI/TVATDCI?style=social" alt="Forks"/>
-  <img src="https://img.shields.io/github/issues-pr/TVATDCI/TVATDCI" alt="GitHub pull requests" />
-  <img src="https://img.shields.io/github/issues/TVATDCI/TVATDCI?color=0088ff" alt="Issues" />
+  <img src="https://img.shields.io/github/issues-pr/TVATDCI/TVATDCI/github-readme-stats" alt="GitHub pull requests" />
+  <img src="https://img.shields.io/github/issues/TVATDCI/TVATDCI/github-readme-stats?color=0088ff" alt="Issues" />
   <img src="https://img.shields.io/github/stars/TVATDCI/TVATDCI?style=social" alt="Stars"/>
   <img src="https://img.shields.io/github/contributors/TVATDCI/TVATDCI" alt="Contributors"/>
 </p>
@@ -73,3 +73,7 @@
 </table>
 
 [![GitHub Docs](https://img.shields.io/badge/GitHub_Docs-Basic_Syntax-%23d83b7d?style=for-the-badge&logo=github&logoColor=red)](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%20by%20TVATDCI-ff69b4?style=plastic" alt="Made with love by TVATDCI"/>
+</p>
