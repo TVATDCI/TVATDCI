@@ -54,17 +54,17 @@
 #### 📩 Contact:👇
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/tuanthong-vaidyanond-6789782b2" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/tuanthong-vaidyanond-6789782b2" target="_blank" rel="noopener noreferrer" style="margin-right: 5px;" >
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-  </a>&nbsp;
-  <a href="https://dropdeaddev-1.onrender.com/" target="_blank" rel="noopener noreferrer">
+  
+  <a href="https://dropdeaddev-1.onrender.com/" target="_blank" rel="noopener noreferrer" style="margin-right: 5px;" >
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>&nbsp;
-  <a href="#">
+  
+   <a href="mailto:tuanthong.vaidyanond@gmail.com" target="_blank" rel="noopener noreferrer" style="margin-right: 5px;" >
     <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-</a>&nbsp;
-  <a href="#" target="_blank" rel="noopener noreferrer">
+
+  <a href="#" target="_blank" rel="noopener noreferrer" style="margin-right: 5px;" >
     <img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   </p>
