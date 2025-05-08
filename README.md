@@ -33,6 +33,9 @@
   <img src="https://img.shields.io/badge/build-passing-brightgreen" alt="Build Status"/>
   <img src="https://img.shields.io/badge/license-MIT-blue" alt="License"/>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=TVATDCI.TVATDCI" alt="Visitors"/>
+  <span style="background-color:pink; padding:4px 8px; border-radius:6px; display:inline-block;">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=TVATDCI.TVATDCI" alt="Visitors"/>
+  </span>
   <img src="https://img.shields.io/github/forks/TVATDCI/TVATDCI?style=social" alt="Forks"/>
   <img src="https://img.shields.io/github/stars/TVATDCI/TVATDCI?style=social" alt="Stars"/>
   <img src="https://img.shields.io/github/contributors/TVATDCI/TVATDCI" alt="Contributors"/>
@@ -51,7 +54,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TVATDCI&show_icons=true&theme=radical&layout=compact" alt="Most Used Languages"/>
 </p>
 
-#### 📩 Contact:👇
+#### Contact:👇
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuanthong-vaidyanond-6789782b2)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://dropdeaddev-1.onrender.com/)
@@ -70,4 +73,4 @@
   </tr>
 </table>
 
-[![GitHub Docs](https://img.shields.io/badge/GitHub_Docs-Basic_Syntax-%23dc2743?style=for-the-badge&logo=github&logoColor=red)](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+[![GitHub Docs](https://img.shields.io/badge/GitHub_Docs-Basic_Syntax-%23d83b7d?style=for-the-badge&logo=github&logoColor=red)](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
