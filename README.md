@@ -54,10 +54,11 @@
 #### 📩 Contact:👇
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/tuanthong-vaidyanon-6789782b2" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/tuanthong-vaidyanond-6789782b2" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
   </a>&nbsp;
-  <a href="https://your-portfolio.com" target="_blank" rel="noopener noreferrer">
+  <a href="https://dropdeaddev-1.onrender.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>&nbsp;
   <a href="#">
