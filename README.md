@@ -74,6 +74,6 @@
 
 [![GitHub Docs](https://img.shields.io/badge/GitHub_Docs-Basic_Syntax-%23d83b7d?style=for-the-badge&logo=github&logoColor=red)](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%20by%20TVATDCI-ff69b4?style=plastic" alt="Made with love by TVATDCI"/>
-</p>
+$$
+{\color{red}Made \space \color{red} With \space \color{red}❤️ }
+$$
