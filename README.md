@@ -60,9 +60,11 @@
   
   <a href="https://dropdeaddev-1.onrender.com/" target="_blank" rel="noopener noreferrer" style="margin-right: 5px;" >
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+    </a>
   
    <a href="mailto:tuanthong.vaidyanond@gmail.com" target="_blank" rel="noopener noreferrer" style="margin-right: 5px;" >
     <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
 
   <a href="#" target="_blank" rel="noopener noreferrer" style="margin-right: 5px;" >
     <img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
