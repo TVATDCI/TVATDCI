@@ -55,7 +55,7 @@
 
 <p align="left" style="display: flex; gap: 10px; flex-wrap: wrap;">
   <a href="https://www.linkedin.com/in/tuanthong-vaidyanond-6789782b2" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/tuanthong-vaidyanond-6789782b2" target="_blank" rel="noopener noreferrer"/>
   </a>
   <a href="https://dropdeaddev-1.onrender.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
@@ -78,4 +78,4 @@
     <td>ภาษาไทย</td>
   </tr>
 </table>
-<a href="https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax" target="_blank" rel="noopener noreferrer">basic formatting syntax GitHub</a>
+<a href="https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax" target="_blank" rel="noopener noreferrer" style="text-decoration: none;" >basic formatting syntax GitHub</a>
