@@ -79,3 +79,4 @@
   </tr>
 </table>
 <a href="https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax" target="_blank" rel="noopener noreferrer" style="text-decoration: none;" >basic formatting syntax GitHub</a>
+[![GitHub Docs](https://img.shields.io/badge/GitHub%20Docs-Click%20Here-24292e?style=for-the-badge&logo=github&logoColor=white)](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
