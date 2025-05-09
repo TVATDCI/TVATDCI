@@ -49,14 +49,14 @@ $$
 
 ![](assets/ani-down-aura.svg)
 
-<p align="center" >
-<img src="https://github-readme-stats.vercel.app/api?username=TVATDCI&show_icons=true&theme=transparent" alt="GitHub Stats"  style="background: linear-gradient(to right, red, yellow, green, cyan, blue, violet);" />
+<p align="center" style="background: linear-gradient(to right, red, yellow, green, cyan, blue, violet);" >
+<img src="https://github-readme-stats.vercel.app/api?username=TVATDCI&show_icons=true&theme=onedark" alt="GitHub Stats"  style="background: linear-gradient(to right, red, yellow, green, cyan, blue, violet);" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TVATDCI&show_icons=true&theme=transparent&layout=donut" alt="Most used Language" style="background: linear-gradient(to left, red, yellow, green, cyan, blue, violet);"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TVATDCI&show_icons=true&theme=onedark&layout=donut" alt="Most used Language" style="background: linear-gradient(to left, red, yellow, green, cyan, blue, violet);"/>
 
 </p>
 
-#### Contact:
+#### Contact :mailbox:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuanthong-vaidyanond-6789782b2)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://dropdeaddev-1.onrender.com/)
