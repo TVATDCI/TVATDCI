@@ -49,10 +49,12 @@ $$
 
 ![](assets/ani-down-aura.svg)
 
-[![TVATDCI's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=TVATDCI&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/TVATDCI/github-readme-stats#gh-dark-mode-only)
-[![TVATDCI's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=TVATDCI&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/TVATDCI/github-readme-stats#gh-light-mode-only)
+<p align="center" >
+<img src="https://github-readme-stats.vercel.app/api?username=TVATDCI&show_icons=true&theme=transparent" alt="GitHub Stats"  style="background: linear-gradient(to right, red, yellow, green, cyan, blue, violet);" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TVATDCI&show_icons=true&theme=transparent&layout=pie)](https://github.com/TVATDCI/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TVATDCI&show_icons=true&theme=transparent&layout=donut-vertical" alt="Most used Language" style="background: linear-gradient(to right, red, yellow, green, cyan, blue, violet);"/>
+
+</p>
 
 #### Contact:
 
