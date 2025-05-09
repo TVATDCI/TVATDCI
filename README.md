@@ -52,7 +52,7 @@ $$
 <p align="center" >
 <img src="https://github-readme-stats.vercel.app/api?username=TVATDCI&show_icons=true&theme=transparent" alt="GitHub Stats"  style="background: linear-gradient(to right, red, yellow, green, cyan, blue, violet);" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TVATDCI&show_icons=true&theme=transparent&layout=donut-vertical" alt="Most used Language" style="background: linear-gradient(to right, red, yellow, green, cyan, blue, violet);"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TVATDCI&show_icons=true&theme=transparent&layout=donut" alt="Most used Language" style="background: linear-gradient(to left, red, yellow, green, cyan, blue, violet);"/>
 
 </p>
 
