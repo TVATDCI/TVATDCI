@@ -116,6 +116,11 @@ $$
 
 [![GitHub Docs](https://img.shields.io/badge/GitHub_Docs-Basic_Syntax-%23d83b7d?style=for-the-badge&logo=github&logoColor=red)](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
+### 📘 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 $$
 {\color{red}Made \space \color{red} With \space \color{red}❤️ }
 $$
