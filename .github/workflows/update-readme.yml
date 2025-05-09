@@ -13,6 +13,6 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Fetch Blog Posts and Update README
-        uses: gautamkrishnar/blog-post-workflow@v1.0.0
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://dev.to/feed/tvatdci" # Ensure this is a valid RSS feed URL
