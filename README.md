@@ -6,11 +6,21 @@
     <img src="./assets/welcome-float.svg" alt="Welcome banner" width="250"/>
   </a>
 </p>
-<p align="center" style="font-size: .75em;">
-  <span style="color: green" >I am a full-stack (MERN) Web Developer with a critical thinking mind-set who prones to problem solving in many aspects of life, design and code development.</br>
-  I have been listening, learning, practicing as well as seeking a new role which leverages my skill set.</br>
-  An opportunity to collaborate among a team of motivated and innovative developers to build a meaningful product is what I am looking for!</span>
-</p>
+
+```yaml
+name: Tuanthong Vaidyanond
+location: Nürnberg, Germany
+description:
+  [
+    "I am a certificate full-stack (MERN) Web Developer with a critical thinking mindset, passionate about solving problems in various aspects of life, design, and code development.",
+  ]
+Interests:
+  [
+    "I am constantly learning, practicing, and seeking opportunities to grow.",
+    "I am looking for a role that leverages my skill set and allows me to collaborate with a team of motivated and innovative developers.",
+    "My goal is to build meaningful products that make a difference.",
+  ]
+```
 
 $$
 {\color{red}🛠\space \space \color{lightgreen}My \space Tech \space Stack \space \space \color{red}🛠}
