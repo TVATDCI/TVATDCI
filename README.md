@@ -7,8 +7,10 @@
   </a>
 </p>
 
+<p align="center" style="font-size: .75em;">I am a full-stack MERN Web Developer with a critical thinking mind-set who prones to problem solving in many aspects of life, design and code development. I have been listening, learning, practicing as well as seeking a new role which leverages my skill set. An opportunity to collaborate among a team of motivated and innovative developers to build a meaningful product is what I am looking for!</p>
+
 $$
-{\color{red}🛠\space \space \color{brightgreen}Tech Stack\space \space \color{red}🛠}
+{\color{red}🛠\space \space \color{lightgreen}My \space Tech \space Stack \space \space \color{red}🛠}
 $$
 
 <p align="center">
@@ -31,7 +33,6 @@ $$
   <img src="./assets/skillsSVG/ampersand.svg" alt="Ampersand Logo" width="20" style="margin-right: 5px;" />
   <span style="background: linear-gradient(to right, red, yellow, green, cyan, blue, violet);" >continuously learning!</span>
 </p>
-<p align="center" style="font-size: .5em;">I am a full-stack MERN Web Developer with a critical thinking mind-set who prones to problem solving in many aspects of life, design and code development. I have been listening, learning, practicing as well as seeking a new role which leverages my skill set. Now it is time to connect and find out what the future will bring. </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/build-passing-brightgreen" alt="Build Status"/>
