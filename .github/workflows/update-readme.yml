@@ -4,13 +4,15 @@ on:
   schedule:
     - cron: "0 0 * * *" # every hour
   workflow_dispatch:
+  contents: write # To write the generated contents to the readme
 
 jobs:
-  update-readme:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Fetch Blog Posts and Update README
         uses: gautamkrishnar/blog-post-workflow@v1
