@@ -15,4 +15,4 @@ jobs:
       - name: Fetch Blog Posts and Update README
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://dev.to/feed/javascript" # Ensure this is a valid RSS feed URL
+          feed_list: "https://dev.to/feed/tvatdci" # Ensure this is a valid RSS feed URL
