@@ -8,7 +8,7 @@
 </p>
 
 $$
-{\color{red}🛠\space \space \color{green}Tech Stack\space \space \color{red}🛠}
+{\color{red}🛠\space \space \color{brightgreen}Tech Stack\space \space \color{red}🛠}
 $$
 
 <p align="center">
