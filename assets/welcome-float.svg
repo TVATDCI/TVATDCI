@@ -35,6 +35,7 @@
         fill="url(#alien-gradient)"
       />
       <!-- Text Elements are taken out for testing -->
+      <!-- Solution: convert text element into svg path -->
       
     </g>
     <!-- Floating animation -->
