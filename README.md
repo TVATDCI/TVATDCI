@@ -62,7 +62,7 @@ $$
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuanthong-vaidyanond-6789782b2)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=brightgreen)](https://dropdeaddev-1.onrender.com/)
 [![Gmail](https://img.shields.io/badge/gmail-%23dc2743.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuanthong.vaidyanond@gmail.com)
-[![Instagram](https://img.shields.io/badge/instagram-000000.svg?&style=for-the-badge&logo=instagram&logoColor=brightgreen)](#)
+[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=brightgreen)](https://codepen.io/Tuanthong-Vaidyanond)
 
   <table>
   <tr>
