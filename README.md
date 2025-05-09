@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://dropdeaddev-1.onrender.com" target="_blank" rel="noopener noreferrer">
-    <img src="./assets/welcome-gradient.svg" alt="Welcome banner" width="250"/>
+    <img src="./assets/welcome-float.svg" alt="Welcome banner" width="250"/>
   </a>
 </p>
 
