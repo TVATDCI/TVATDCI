@@ -12,29 +12,40 @@ name: Tuanthong Vaidyanond
 language: [EN, DE, ภาษาไทย]
 location: Nürnberg, Germany
 description:
-  - "I am a certified full-stack (MERN) Web Developer with a critical thinking mindset."
-  - "Passionate about solving problems in various aspects of life, design, and code development."
+[
+  "I am a certified full-stack (MERN) Web Developer with a critical thinking mindset.",
+  "Passionate about solving problems in various aspects of life, design, and code development.",
+]
 fields_of_interests:
-  - "Full-Stack Web Development"
-  - "Data Analytics"
-  - "UI/UX"
-  - "App Development"
+[
+  "Full-Stack Web Development",
+  "Data Analytics",
+  "UI/UX",
+  "App Development",
+]
 points:
-  - "I am constantly learning, practicing, and seeking opportunities to grow."
-  - "My goal is to find a role that leverages my skill set and allows me to collaborate with a team of motivated and innovative developers."
+[
+  "I am constantly learning, practicing, and seeking opportunities to grow.",
+  "My goal is to find a role that leverages my skill set and allows me to collaborate
+   with a team of motivated and innovative developers.",
+]
 future_goals:
-  - "Create 20+ projects and learn at least 5 new technologies yearly."
-  - "Build meaningful products that make a difference."
-current_situation: "Looking for an internship / Full-Time Job"
+[
+  "Create 20+ projects and learn at least 5 new technologies yearly.",
+  "Build meaningful products that make a difference.",
+]
+current_situation: "Looking for an internship / Full-Time Job",
 hobbies:
-  - "Art & Design"
-  - "Architecture"
-  - "Books"
-  - "Coding"
-  - "Listening"
-  - "Living"
-  - "Music"
-  - "Writing"
+[
+  "Art & Design",
+  "Architecture",
+  "Books",
+  "Coding",
+  "Listening",
+  "Living",
+  "Music",
+  "Writing",
+]
 life_motto: "Slow it down and see what happens!"
 ```
 
