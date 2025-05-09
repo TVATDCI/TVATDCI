@@ -15,6 +15,7 @@ $$
 
 <p align="center">
 <img src="./assets/ani.svg" alt="About me" width="50" align="left" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="30" style="margin-right: 5px;" />
   <img src="./assets/skillsSVG/html-5.svg" alt="HTML Logo" width="30" style="margin-right: 5px;" />
   <img src="./assets/skillsSVG/css-3.svg" alt="CSS Logo" width="30" style="margin-right: 5px;" />
   <img src="./assets/skillsSVG/scss2-white.svg" alt="SCSS Logo" width="30" style="margin-right: 5px;" />
@@ -66,7 +67,7 @@ $$
 
   <table>
   <tr>
-    <td >EN</td>
+    <td>EN</td>
   </tr>
   <tr>
     <td>DE</td>
