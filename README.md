@@ -12,12 +12,22 @@ name: Tuanthong Vaidyanond
 location: Nürnberg, Germany
 description:
   [
-    "I am a certificate full-stack (MERN) Web Developer with a critical thinking mindset, passionate about solving problems in various aspects of life, design, and code development.",
+    "I am a certificate full-stack (MERN) Web Developer with a critical thinking mindset",
+    "passionate about solving problems in various aspects of life",
+    "design, and code development.",
   ]
-Interests:
+interests:
   [
     "I am constantly learning, practicing, and seeking opportunities to grow.",
-    "I am looking for a role that leverages my skill set and allows me to collaborate with a team of motivated and innovative developers.",
+  ]
+  points:
+  [
+    "My point is to find a role that leverages my skill set",
+    "and allows me to collaborate with a team of motivated,
+    "and innovative developers.",
+  ]
+  goal:
+  [
     "My goal is to build meaningful products that make a difference.",
   ]
 ```
