@@ -6,8 +6,11 @@
     <img src="./assets/welcome-float.svg" alt="Welcome banner" width="250"/>
   </a>
 </p>
-
-<p align="center" style="font-size: .75em;">I am a full-stack MERN Web Developer with a critical thinking mind-set who prones to problem solving in many aspects of life, design and code development. I have been listening, learning, practicing as well as seeking a new role which leverages my skill set. An opportunity to collaborate among a team of motivated and innovative developers to build a meaningful product is what I am looking for!</p>
+<p align="center" style="font-size: .75em;">
+  I am a full-stack (MERN) Web Developer with a critical thinking mind-set who prones to problem solving in many aspects of life, design and code development. 
+  I have been listening, learning, practicing as well as seeking a new role which leverages my skill set. 
+  An opportunity to collaborate among a team of motivated and innovative developers to build a meaningful product is what I am looking for!
+</p>
 
 $$
 {\color{red}🛠\space \space \color{lightgreen}My \space Tech \space Stack \space \space \color{red}🛠}
