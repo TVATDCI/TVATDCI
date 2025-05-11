@@ -91,7 +91,7 @@ $$
 <p align="center" style="background: linear-gradient(to right, red, yellow, green, cyan, blue, violet);" >
 <img src="https://github-readme-stats.vercel.app/api?username=TVATDCI&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TVATDCI&show_icons=true&theme=radical&layout=donut" alt="Most used Language"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TVATDCI&show_icons=true&theme=radical&layout=donut&hide_border=true" alt="Most used Language"/>
 
 </p>
 
