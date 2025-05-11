@@ -88,12 +88,14 @@ $$
 
 ![](assets/ani-down-aura.svg)
 
+<picture>
 <p align="center" style="background: linear-gradient(to right, red, yellow, green, cyan, blue, violet);" >
 <img src="https://github-readme-stats.vercel.app/api?username=TVATDCI&show_icons=true&title_color=0e0c15&icon_color=0ffc03&text_color=0e0c15&bg_color=00000000&theme=radical&hide_border=true" alt="GitHub Stats" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TVATDCI&show_icons=true&text_color=0e0c15&bg_color=00000000&theme=radical&layout=donut&title_color=0e0c15&hide_border=true" alt="Most used Language"/>
 
 </p>
+</picture>
 
 #### Contact 🧬
 
