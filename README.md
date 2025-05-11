@@ -89,9 +89,9 @@ $$
 ![](assets/ani-down-aura.svg)
 
 <p align="left" style="background: linear-gradient(to right, red, yellow, green, cyan, blue, violet);" >
-<img src="https://github-readme-stats.vercel.app/api?username=TVATDCI&show_icons=true&hide_title=true&icon_color=0ffc03&text_color=00000080&bg_color=00000000&theme=radical&hide_border=true&" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=TVATDCI&show_icons=true&hide_title=true&icon_color=0ffc03&text_color=000000&bg_color=00000000&theme=radical&hide_border=true&" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TVATDCI&show_icons=true&text_color=00000080&bg_color=00000000&theme=radical&layout=donut&hide_title=true&hide_border=true" alt="Most used Language"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TVATDCI&show_icons=true&text_color=000000&bg_color=00000000&theme=radical&layout=donut&hide_title=true&hide_border=true" alt="Most used Language"/>
 
 </p>
 
