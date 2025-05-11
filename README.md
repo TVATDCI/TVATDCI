@@ -89,7 +89,7 @@ $$
 ![](assets/ani-down-aura.svg)
 
 <p align="center" style="background: linear-gradient(to right, red, yellow, green, cyan, blue, violet);" >
-<img src="https://github-readme-stats.vercel.app/api?username=TVATDCI&show_icons=true&theme=radical" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=TVATDCI&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TVATDCI&show_icons=true&theme=radical&layout=donut" alt="Most used Language"/>
 
@@ -123,5 +123,6 @@ $$
 ### 📘 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [my first post!](https://dev.to/tvatdci/my-first-post-1ib3)
 <!-- BLOG-POST-LIST:END -->
