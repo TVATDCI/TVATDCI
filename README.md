@@ -80,8 +80,8 @@ $$
   <img src="https://img.shields.io/github/issues-pr/TVATDCI/TVATDCI" alt="GitHub pull requests" />
   <img src="https://img.shields.io/github/issues/TVATDCI/TVATDCI?color=0088ff" alt="Issues" />
   <img src="https://img.shields.io/github/stars/TVATDCI/TVATDCI?style=social" alt="Stars"/>
-  <a href="https://github.com/TVATDCI/dropDeadDev/graphs/contributors">
-  <img src="https://img.shields.io/github/contributors/TVATDCI/TVATDCI" alt="Contributors"/>
+  <a href="https://github.com/TVATDCI/github-readme-stats/graphs/contributors">
+  <img src="https://img.shields.io/github/contributors/TVATDCI/github-readme-stats" alt="Contributors"/>
   </a>
 </p>
 <p align="center" style="background: linear-gradient(to right, red, yellow, green, cyan, blue, violet);">
