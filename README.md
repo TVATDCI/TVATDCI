@@ -17,7 +17,7 @@ location: Nürnberg, Germany
 description:
   - Certified full-stack (MERN) web developer with a curious, analytical mindset.
   - Passionate about building intuitive, functional, and scalable web applications.
-  - Driven by a love for both aesthetics and problems solving with clean code in thoughtful design and code.
+  - Driven by both aesthetics and problems solving with clean code in thoughtful design.
   - Creating intuitive, human-centered web experiences
   - Blending my diverse background into meaningful digital products
   - continuously learning!
