@@ -29,16 +29,11 @@ fields_of_interests:
   - Data Analytics & Visualization
   - App development (PWA / mobile-friendly)
 
-points:
-  - I am continuously learning, building, and improving as a developer.
-  - I value clean, maintainable code and purposeful design.
-  - I enjoy collaborating with developers who think critically and build creatively.
-
-future_goals:
+goals:
   - Build 20+ portfolio projects and explore 5+ new technologies yearly.
   - Contribute to open-source projects and collaborate with global dev communities.
   - Create meaningful digital products that improve lives and inspire others.
-  - Land a full-time dev role with a team that shares values of quality & curiosity
+  - Land a full-time dev role with a motivated team that shares values of quality & curiosity
 
 current_situation:
   - Looking for an internship or full-time role in web development.
@@ -53,17 +48,17 @@ hobbies:
   - Music Discovery
   - Journaling & Mindfulness
 
-btw_i_am_also:
+i_am_also:
   - A Human being.
-  - Former field journalist & cultural correspondent (Thailand → UK)
-  - Former chef, cook, creator of "Wirtshauskatze" Nürnberg
+  - Former field journalist & cultural correspondent (Siam Sport syndicate Thailand → UK)
+  - Ex chef-cook, creator of "Wirtshauskatze" Nürnberg
   - A proud father of a very curious boy!
 
 life_motto: Slow it down and see what happens!
 ```
 
 $$
-{\color{red}🛠\space \space \color{lightgreen}My \space Tech \space Stack \space \space \color{red}🛠}
+{\color{red}🛠\space \space \color{lightgreen}My \space Tech \space Interest \space \space \color{red}🛠}
 $$
 
 <p align="center">
