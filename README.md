@@ -9,39 +9,43 @@
 
 ```yaml
 name: Tuanthong Vaidyanond
+  - Former field journalist & cultural correspondent (Thailand → UK)
+  - Former chef, cook, creator of "Wirtshauskatze" Nürnberg
+  - A proud father of a very curious boy!
 languages: [EN, DE, ภาษาไทย]
 location: Nürnberg, Germany
 
 description:
-  - I am a certified full-stack (MERN) Web Developer with a critical thinking mindset.
-  - Passionate about solving problems in various aspects of life, design, and code development.
+  - Certified full-stack (MERN) web developer with a curious, analytical mindset.
+  - Passionate about building intuitive, functional, and scalable web applications.
+  - Driven by a love for both aesthetics and problem-solving in design and code.
 
 fields_of_interests:
   - Full-Stack Web Development
-  - Data Analytics
-  - UI/UX
-  - App Development
+  - RESTful API Design & Backend Architecture
+  - UI/UX and Frontend Performance
+  - Data Analytics & Visualization
+  - App Development (Web & Mobile)
 
 points:
-  - I am constantly learning, practicing, and seeking opportunities to grow.
-  - My goal is to find a role that leverages my skill set and allows me to collaborate
-  - with a team of motivated and innovative developers.
+  - I am continuously learning, building, and improving as a developer.
+  - I value clean, maintainable code and purposeful design.
+  - I enjoy collaborating with developers who think critically and build creatively.
 
 future_goals:
-  - Create 20+ projects and learn at least 5 new technologies yearly.
-  - Build meaningful products that make a difference.
+  - Build 20+ portfolio projects and explore 5+ new technologies yearly.
+  - Contribute to open-source projects and collaborate with global dev communities.
+  - Create meaningful digital products that improve lives and inspire others.
 
-current_situation: Looking for an internship / Full-Time Job
+current_situation: Looking for an internship or full-time role in web development.
 
 hobbies:
   - Art & Design
   - Architecture
-  - Books
-  - Coding
-  - Listening
-  - Living
-  - Music
-  - Writing
+  - Reading & Writing
+  - Coding & Debugging
+  - Music Discovery
+  - Journaling & Mindfulness
 
 life_motto: Slow it down and see what happens!
 ```
