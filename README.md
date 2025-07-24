@@ -9,23 +9,25 @@
 
 ```yaml
 name: Tuanthong Vaidyanond
-  - Former field journalist & cultural correspondent (Thailand → UK)
-  - Former chef, cook, creator of "Wirtshauskatze" Nürnberg
-  - A proud father of a very curious boy!
+
 languages: [EN, DE, ภาษาไทย]
+
 location: Nürnberg, Germany
 
 description:
   - Certified full-stack (MERN) web developer with a curious, analytical mindset.
   - Passionate about building intuitive, functional, and scalable web applications.
-  - Driven by a love for both aesthetics and problem-solving in design and code.
+  - Driven by a love for both aesthetics and problems solving with clean code in thoughtful design and code.
+  - Creating intuitive, human-centered web experiences
+  - Blending my diverse background into meaningful digital products
+  - continuously learning!
 
 fields_of_interests:
-  - Full-Stack Web Development
-  - RESTful API Design & Backend Architecture
+  - Full-Stack Web Development (Node.js, Express, React, MongoDB)
+  - RESTful API Design & Backend Architecture - Authentication, NoSQL, Mongoose, MVC
   - UI/UX and Frontend Performance
   - Data Analytics & Visualization
-  - App Development (Web & Mobile)
+  - App development (PWA / mobile-friendly)
 
 points:
   - I am continuously learning, building, and improving as a developer.
@@ -36,8 +38,12 @@ future_goals:
   - Build 20+ portfolio projects and explore 5+ new technologies yearly.
   - Contribute to open-source projects and collaborate with global dev communities.
   - Create meaningful digital products that improve lives and inspire others.
+  - Land a full-time dev role with a team that shares values of quality & curiosity
 
-current_situation: Looking for an internship or full-time role in web development.
+current_situation:
+  - Looking for an internship or full-time role in web development.
+  - Exploring advanced Node.js and MongoDB techniques
+  - Practicing secure API design, testing, and clean architecture
 
 hobbies:
   - Art & Design
@@ -46,6 +52,12 @@ hobbies:
   - Coding & Debugging
   - Music Discovery
   - Journaling & Mindfulness
+
+btw_i_am_also:
+  - A Human being.
+  - Former field journalist & cultural correspondent (Thailand → UK)
+  - Former chef, cook, creator of "Wirtshauskatze" Nürnberg
+  - A proud father of a very curious boy!
 
 life_motto: Slow it down and see what happens!
 ```
