@@ -33,7 +33,7 @@ goals:
   - Build 20+ portfolio projects and explore 5+ new technologies yearly.
   - Contribute to open-source projects and collaborate with global dev communities.
   - Create meaningful digital products that improve lives and inspire others.
-  - Land a full-time dev role with a motivated team that shares values of quality & curiosity
+  - A full-time dev role with a motivated team that shares values of quality & curiosity
 
 current_situation:
   - Looking for an internship or full-time role in web development.
@@ -42,7 +42,7 @@ current_situation:
 
 hobbies:
   - Art & Design
-  - Architecture
+  - Architecture - LEGO
   - Reading & Writing
   - Coding & Debugging
   - Music Discovery
@@ -50,7 +50,7 @@ hobbies:
 
 i_am_also:
   - A Human being.
-  - Former field journalist & cultural correspondent (Siam Sport syndicate Thailand → UK)
+  - Former field journalist, sport & cultural correspondent (Siam Sport syndicate Thailand → UK)
   - Ex chef-cook, creator of "Wirtshauskatze" Nürnberg
   - A proud father of a very curious boy!
 
