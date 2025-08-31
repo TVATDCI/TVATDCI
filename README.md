@@ -118,7 +118,7 @@ $$
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=brightgreen)](https://dropdeaddev-1.onrender.com/)
 [![Gmail](https://img.shields.io/badge/gmail-%23dc2743.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuanthong.vaidyanond@gmail.com)
 [![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=brightgreen)](https://codepen.io/Tuanthong-Vaidyanond)
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://tvatdci-2095549.postman.co/me?)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/tvatdci)
 
   <table>
   <tr>
