@@ -99,14 +99,11 @@ $$
 <img src="./assets/gradient-globe.png" alt="gradient-globe" width="50" style="margin:0 auto;" />
 </p>
 
-![](assets/ani-down-aura.svg)
+![Animated aura decorative graphic](assets/ani-down-aura.svg)
 
-<p align="left" style="background: linear-gradient(to right, red, yellow, green, cyan, blue, violet);" >
-<img src="https://github-readme-stats.vercel.app/api?username=TVATDCI&show_icons=true&hide_title=true&icon_color=0ffc03&text_color=2e2e2ebb&bg_color=00000000&theme=radical&hide_border=true&" alt="GitHub Stats" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TVATDCI&show_icons=true&hide_title=true&icon_color=0ffc03&text_color=2e2e2ebb&bg_color=00000000&theme=radical&hide_border=true)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TVATDCI&show_icons=true&text_color=2e2e2ebb&bg_color=00000000&theme=radical&layout=donut&hide_title=true&hide_border=true" alt="Most used Language"/>
-
-</p>
+![Most used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=TVATDCI&show_icons=true&text_color=2e2e2ebb&bg_color=00000000&theme=radical&layout=donut&hide_title=true&hide_border=true)
 
 #### API Collections
 
@@ -120,17 +117,11 @@ $$
 [![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=brightgreen)](https://codepen.io/Tuanthong-Vaidyanond)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/tvatdci)
 
-  <table>
-  <tr>
-    <td>EN</td>
-  </tr>
-  <tr>
-    <td>DE</td>
-  </tr>
-  <tr>
-    <td>ภาษาไทย</td>
-  </tr>
-</table>
+| Language |
+| --- |
+| EN |
+| DE |
+| ภาษาไทย |
 
 [![GitHub Docs](https://img.shields.io/badge/GitHub_Docs-Basic_Syntax-%23d83b7d?style=for-the-badge&logo=github&logoColor=red)](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
