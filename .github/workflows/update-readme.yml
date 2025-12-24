@@ -2,7 +2,7 @@ name: 📰 Update README with Blog Posts
 
 on:
   schedule:
-    - cron: "0 0 * * *" # every hour
+    - cron: "0 0 * * *" # runs once per day at 00:00 UTC
   workflow_dispatch:
 
 jobs:
@@ -15,4 +15,5 @@ jobs:
       - name: Fetch Blog Posts and Update README
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://dev.to/feed/tvatdci" # Ensure this is a valid RSS feed URL
+          feed_list: "https://dev.to/feed/tvatdci"
+          readme_path: "README.md"
