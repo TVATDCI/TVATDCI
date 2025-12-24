@@ -132,4 +132,6 @@ $$
 ### 📘 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Augmentation ...](https://dev.to/tvatdci/augmentation--9f1)
+- [my first post!](https://dev.to/tvatdci/my-first-post-1ib3)
 <!-- BLOG-POST-LIST:END -->
