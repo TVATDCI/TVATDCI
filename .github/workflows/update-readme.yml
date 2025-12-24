@@ -1,9 +1,9 @@
 name: 📰 Update README with Blog Posts
 
-# on:
-#   schedule:
-#     - cron: "0 0 * * *" # every hour
-#   workflow_dispatch:
+on:
+  schedule:
+    - cron: "0 0 * * *" # every hour
+  workflow_dispatch:
 
 jobs:
   update-readme:
