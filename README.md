@@ -78,6 +78,7 @@ $$
 {\color{red}🛠\space \space \color{lightgreen}My \space Tech \space Interest \space \space \color{red}🛠}
 $$
 
+<p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="30" style="margin-right: 5px;" />
   <img src="./assets/skillsSVG/html-5.svg" alt="HTML Logo" width="30" style="margin-right: 5px;" />
   <img src="./assets/skillsSVG/css-3.svg" alt="CSS Logo" width="30" style="margin-right: 5px;" />
