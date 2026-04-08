@@ -7,6 +7,19 @@
   </a>
 </p>
 
+╔══════════════════════════════════════════════════════════════════╗
+║ ║
+║ :::: TUANTHONG VAIDYANOND :::: ║
+║ :::: Full-Stack Developer :::: ║
+║ :::: Nürnberg, Germany :::: ║
+║ ║
+╚══════════════════════════════════════════════════════════════════╝
+
+## ─── Profile ───
+
+<details>
+<summary> CLICK::::🟢:::: MORE DETAILS ABOUT ME ::::🟢:::: </summary>
+
 ```yaml
 name: Tuanthong Vaidyanond
 
@@ -55,15 +68,17 @@ i_am_also:
   - A proud father of a very curious boy!
 
 life_motto: Slow it down and see what happens!
+
+# ─────────────────────────────────────
 ```
+
+</details>
 
 $$
 {\color{red}🛠\space \space \color{lightgreen}My \space Tech \space Interest \space \space \color{red}🛠}
 $$
 
-<p align="center">
-<img src="./assets/ani.svg" alt="About me" width="50" align="left" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="30" style="margin-right: 5px;" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="30" style="margin-right: 5px;" />
   <img src="./assets/skillsSVG/html-5.svg" alt="HTML Logo" width="30" style="margin-right: 5px;" />
   <img src="./assets/skillsSVG/css-3.svg" alt="CSS Logo" width="30" style="margin-right: 5px;" />
   <img src="./assets/skillsSVG/scss2-white.svg" alt="SCSS Logo" width="30" style="margin-right: 5px;" />
@@ -105,7 +120,7 @@ $$
 
 ![Most used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=TVATDCI&show_icons=true&text_color=2e2e2ebb&bg_color=00000000&theme=radical&layout=donut&hide_title=true&hide_border=true)
 
-#### API Collections
+### API Collections
 
 - [NATOURS - 2025 API](https://documenter.getpostman.com/view/44358497/2sB3Hhs2Z5)
 
@@ -118,10 +133,10 @@ $$
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/tvatdci)
 
 | Language |
-| --- |
-| EN |
-| DE |
-| ภาษาไทย |
+| -------- |
+| EN       |
+| DE       |
+| ภาษาไทย  |
 
 [![GitHub Docs](https://img.shields.io/badge/GitHub_Docs-Basic_Syntax-%23d83b7d?style=for-the-badge&logo=github&logoColor=red)](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
@@ -133,3 +148,6 @@ $$
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+$$
+$$
